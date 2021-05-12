@@ -10,7 +10,7 @@ $result =$db->view_record();
     <title>CRUD</title>
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 </head>
-    <body class="bg-dark">
+    <body class="bg-success">
         <div class="container mt-5">
             <div class="row">
                 <div class="col-md-12 m-auto">
